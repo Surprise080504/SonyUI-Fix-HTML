@@ -1,0 +1,83 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+FullName:Adobe Arabic Regular
+MenuName:Adobe Arabic
+StyleBits:0
+FamilyNameNative:Adobe Arabic
+StyleNameNative:Regular
+FullNameNative:Adobe Arabic Regular
+WritingScript:Arabic
+OutlineFileName:C:\Users\Ara Bianca\Documents\ARA\Upwork\Thomas Isaa\Sony Tasks\A. 2022\03 March\Boulanger Website_Revision\SonyxBoulanger_Web Page Folder\Document fonts\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:376016
+FileModTime:1265284812
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+NameArray:0,Win,16,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SST-Bold
+FamilyName:SST
+StyleName:Bold
+FullName:SST Bold
+MenuName:SST
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Ara Bianca\Documents\ARA\Upwork\Thomas Isaa\Sony Tasks\A. 2022\03 March\Boulanger Website_Revision\SonyxBoulanger_Web Page Folder\Document fonts\SST-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:491096
+FileModTime:1633702348
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,SST Bold
+NameArray:0,Mac,4,SST Bold
+NameArray:0,Win,1,SST
+NameArray:0,Win,16,SST
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SST-Roman
+FamilyName:SST
+StyleName:Roman
+FullName:SST Roman
+MenuName:SST
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ara Bianca\Documents\ARA\Upwork\Thomas Isaa\Sony Tasks\A. 2022\03 March\Boulanger Website_Revision\SonyxBoulanger_Web Page Folder\Document fonts\SST-Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:485676
+FileModTime:1633702348
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,SST
+NameArray:0,Mac,4,SST Roman
+NameArray:0,Win,1,SST
+NameArray:0,Win,16,SST
+%EndFont
+
